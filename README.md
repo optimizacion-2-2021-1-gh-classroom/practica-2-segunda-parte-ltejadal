@@ -4,10 +4,10 @@
 
 |Tarea | Integrantes | Usuario |
 |:---:|:---:|:---:|
-|Por definir|Lau|@ltejadal|
-|Por definir|Santi|@santibatte|
-|Por definir|Rafa|@rafaelortegar |
-|Por definir|Sebas|@C1587S|
+|Project Manager, Reporte|Lau|@ltejadal|
+|Perfilamiento de Código|Santi|@santibatte|
+|Tests|Rafa|@rafaelortegar |
+|Reimplementación de Código, Documentación|Sebas|@C1587S|
 
 ## Descripción del Proyecto
 
