@@ -19,3 +19,6 @@
 ## Referencias
 
 [Compilación a C](https://itam-ds.github.io/analisis-numerico-computo-cientifico/V.optimizacion_de_codigo/5.3/Compilacion_a_C.html) (2021) Erick Palacios
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/main?urlpath=lab)
