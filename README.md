@@ -14,6 +14,9 @@
 
  En esta parte de la práctica 2 se reimplementan los métodos que se escribieron en el paquete de las partes anteriores de las prácticas, de manera que éstos sean más eficientes. Para esto, se realizó un perfilamiento en AWS que se describe en el [reporte](añadirliga).
 
+## Documentación
+
+[![Documentation](https://img.shields.io/static/v1.svg?label=Documentation&message=v1&color=blue)](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/)
 
 ## Github Actions
 
