@@ -20,7 +20,7 @@
 
 ## Documentación
 
-[![Documentation](https://img.shields.io/static/v1.svg?label=Documentation&message=v1&color=blue)](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/)
+[![Documentation](https://img.shields.io/static/v1.svg?label=Documentation%20ACO-TSP&message=v1&color=blue)](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/)
 
 ## Github Actions
 
