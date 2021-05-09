@@ -14,6 +14,10 @@
 
  En esta parte de la práctica 2 se reimplementan los métodos que se escribieron en el paquete de las partes anteriores de las prácticas, de manera que éstos sean más eficientes. Para esto, se realizó un perfilamiento en AWS que se describe en el [reporte](añadirliga).
 
+## Ejecución en Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/main?urlpath=lab)
+
 ## Documentación
 
 [![Documentation](https://img.shields.io/static/v1.svg?label=Documentation&message=v1&color=blue)](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/)
@@ -35,6 +39,3 @@
 /
 practica-1-segunda-parte-ltejadal
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/main?urlpath=lab)
-#
