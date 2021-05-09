@@ -22,3 +22,4 @@
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/main?urlpath=lab)
+#
