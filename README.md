@@ -18,7 +18,11 @@
 
 ## Referencias
 
-[Compilación a C](https://itam-ds.github.io/analisis-numerico-computo-cientifico/V.optimizacion_de_codigo/5.3/Compilacion_a_C.html) (2021) Erick Palacios
+1. [Cómputo en paralelo usando CPUs en un sistema de memoria compartida (SMC)](https://itam-ds.github.io/analisis-numerico-computo-cientifico/V.optimizacion_de_codigo/5.4/Computo_en_paralelo_usando_CPUS_en_SMC.html#multiprocessing) (2021) Erick Palacios
+2. [National Travelling Salesman Problems](https://www.math.uwaterloo.ca/tsp/world/countries.html) (2017) University of Waterloo
+3. [aco_tsp_oo.py](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/blob/main/src/ant_colony/aco_tsp_oo.py) (2021) optimizacion-2-2021-1-gh-classroom
+/
+practica-1-segunda-parte-ltejadal
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/main?urlpath=lab)
