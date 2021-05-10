@@ -14,7 +14,7 @@
 
  En esta parte de la práctica 2 se re-implementan los métodos que se escribieron en el [paquete](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal) de las partes anteriores de las prácticas, de manera que éstos sean más eficientes. Los ejercicios de perfilamiento de la anterior implementación del algoritmo se presentan [aquí](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/tree/main/perfilamiento). La implementación con cómputo en paralelo se explica en [este](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/blob/main/notebooks/eficiencia_codigo/reimplementacion_multiprocessing.ipynb) _notebook_, y [aquí](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/blob/main/notebooks/eficiencia_codigo/ejemplo_multiprocessing.ipynb) se presenta un ejemplo de su uso. Finalmente se incluye el [reporte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/blob/main/reporte_equipo_4_parte_2_practica_2.ipynb) de la actividad ejecutado en `AWS`.
 
-## Ejecución en Binder
+## Ejecución en [`Binder`](https://mybinder.org/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-ltejadal/main?urlpath=lab)
 
