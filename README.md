@@ -27,12 +27,10 @@
 
 [![Dockerfile](https://badges.aleen42.com/src/docker.svg)](https://hub.docker.com/r/santibatte/ant_colony_jupyter/tags?page=1&ordering=last_updated)
 
-## Github Actions
+## Github Actions (repo de la librería)
 
 [![sphinx-doc](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/actions/workflows/sphinx-doc.yml/badge.svg)](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/actions)
-
 [![docker-image-build-and-push.yml](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/actions/workflows/docker-image-build-and-push.yml/badge.svg)](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/actions)
-
 [![ci.yml](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/actions/workflows/ci.yml/badge.svg)](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal/actions)
 
 
