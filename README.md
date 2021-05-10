@@ -22,7 +22,7 @@
 
 [![Documentation](https://img.shields.io/static/v1.svg?label=Documentation%20ACO-TSP&message=v1&color=blue)](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/)
 
-## Dockerfile
+## Imagen de Docker
 
 [![Dockerfile](https://badges.aleen42.com/src/docker.svg)](https://hub.docker.com/r/santibatte/ant_colony_jupyter/tags?page=1&ordering=last_updated)
 
